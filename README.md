@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj Agrawal Mohit</h1>
-<h3 align="center">A passionate fronteI am a programming lover with a Crazy full stack developer who wants to explore every tech stack and I have at least learned something, I think… 🤷‍♂️</h3>
+<h3 align="center">I am a programming lover with a Crazy full stack developer who wants to explore every tech stack and I have at least learned something, I think… 🤷‍♂️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawalmohit1234&label=Profile%20views&color=0e75b6&style=flat" alt="agrawalmohit1234" /> </p>
 
